@@ -1,0 +1,23 @@
+commit c80d6188f8fccef4bcd6a2e8a0f670cf3366e1de
+Author: Luis-2602477 <2602477@sit.singaporetech.edu.sg>
+Date:   Wed Oct 7 21:41:57 2026 +0800
+
+    Adding menu
+
+commit 71deab3df5512e6b45b740f1aa4b00c55d06e936
+Author: Luis-2602477 <2602477@sit.singaporetech.edu.sg>
+Date:   Wed Oct 7 21:41:12 2026 +0800
+
+    Adding CRUD functions
+
+commit fe34584267cf22a2c7332f78f770ec1c95bd707f
+Author: Luis-2602477 <2602477@sit.singaporetech.edu.sg>
+Date:   Wed Oct 7 21:40:13 2026 +0800
+
+    Add user input functions
+
+commit b2934a0879dea82d17cceb3275a712edeb17849e
+Author: Luis-2602477 <2602477@sit.singaporetech.edu.sg>
+Date:   Wed Oct 7 21:38:10 2026 +0800
+
+    Load the product list from inventory.json
